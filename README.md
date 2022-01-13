@@ -1,12 +1,12 @@
-# Covid-19
+## Covid-19 Government Policy Impact - Data Visualisation Tool 
 Completed for the course Interactive Data Visualisation 
-## Data
+# Data
 We utilized two datasets for our visualization. The first dataset comes from the Oxford
 Covid-19 Government Response Tracker and contains information about a country’s
 policies in regard to COVID-19. The second dataset is from “Our World in Data” and
 contains case data on COVID-19.
 
-## Oxford Covid-19 Government Response Tracker
+# Oxford Covid-19 Government Response Tracker
 This dataset contains information about different policies (e.g.: if schools are closed, public
 transport is restricted, etc). There are 42 data points per entry.
 
@@ -44,7 +44,7 @@ We use a subset of data points, namely:
 This data is obtained from the European Centre for Disease Prevention and Control and is
 quantitative.
 
-## User
+# User
 During the COVID-19 pandemic, it is difficult to keep on track with a country’s policies. Our
 goal is to help common people understand the local or central government policies related to
 lockdown restrictions. There are plenty of visualizations that are drawn already, but the
@@ -63,7 +63,7 @@ person, students, and companies (including small, medium, and large scale busine
 companies). The tasks that are achieved by these users are described in the Task Analysis
 section.
 
-## Task
+# Task
 The main task that is achievable with our proposed visualization is to check the stringency
 index of government restrictions and more information about its various policies/measures
 during different phases of the lockdown in all the countries. The sub-tasks or atomic tasks
@@ -81,7 +81,7 @@ and monitor the change in measures.
 ● Companies can decide whether they are allowed to open their workplace or not and
 monitor the change in government restrictions.
 
-## Visualization Techniques
+# Visualization Techniques
 # Choropleth Map
 To represent the Strictness level of all the government policies in the countries or regions,
 we developed a Choropleth map with Geospatial data to describe the information concerning
